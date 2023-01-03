@@ -1,26 +1,34 @@
-<h1 align="center">Hi 👋, I'm Rayn</h1>
-<h3 align="center">17 yr old from Singapore.</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayn
+============================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tawekira&label=Profile%20views&color=0e75b6&style=flat" alt="tawekira" /> </p>
+Student, Hobbyist Programmer
+----------------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawekira" alt="tawekira" /></a> </p>
+Currently a PCME student in Eunoia Junior College, playing tennis on the side. I am interested in STEM, and am self-taught Python, HTML and CSS. May also be a weeb.
 
-- 🔭 I’m currently working on [Line Graph Plotter](https://github.com/tawekira/Line-Graph-Plotter-)
+* 🌍  I'm based in Singapore
+* ✉️  You can contact me at [rayvialtan@gmail.com](mailto:rayvialtan@gmail.com)
+* 🧠  I'm learning CSS, Node.JS
 
-- 🌱 I’m currently learning **node.js**
-
-- 💬 Ask me about **anything(I'll try me best to help!)**
-
-- 📫 How to reach me **rayvialtan@gmail.com 📧**
-
-- ⚡ Fun fact **I play tennis! 🎾**
+### Skills
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawekira&show_icons=true&locale=en&layout=compact" alt="tawekira" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tawekira&show_icons=true&locale=en" alt="tawekira" /></p>
+### Socials
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tawekira&" alt="tawekira" /></p>
+<p align="left"> <a href="https://discord.com/users/485411155960004608" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tawekira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tawekira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/tawekira"><img src="https://github-readme-stats.vercel.app/api?username=tawekira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tawekira's GitHub stats" /></a>
+
+<a href="https://github.com/tawekira" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawekira&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
