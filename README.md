@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayn
 ============================================================================================================================
 
-Student, Hobbyist Programmer
+Student, Programmer
 ----------------------------
-
-Currently a PCME student in Eunoia Junior College, playing tennis on the side. I am interested in STEM, and am self-taught Python, HTML and CSS. May also be a weeb.
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [rayvialtan@gmail.com](mailto:rayvialtan@gmail.com)
